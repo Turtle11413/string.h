@@ -1,6 +1,5 @@
 # string.h
 
-Functions
 | Function | Description |
 | ------ | ------ |
 | void *memchr(const void *str, int c, size_t n) | Searches for the first occurrence of the character c (an unsigned char) in the first n bytes of the string pointed to, by the argument str. |
